@@ -1,0 +1,4 @@
+<Files "setting.json">
+    Order allow,deny
+    Deny from all
+</Files>

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://phoasy.com/?sitemap.xml
